@@ -2,4 +2,4 @@
 
 
 
-![](02575_stations.pdf)
+![](02575_stations.png)
