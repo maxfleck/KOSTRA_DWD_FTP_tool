@@ -4,7 +4,7 @@ This is a small tool to simplify the daily work of engineers. There is already a
 
 This is great because it should be very time-consuming to extract extreme events from the DWD database using the API. Unfortunately, working with these datasets is very unintuitive and the data is in a form that is impractical for many calculations.
 
-The present workflow is intended to remedy this. The individual steps (5 in total) are handled in a jupyter notebook.
+The present workflow is intended to remedy this. The individual steps (5 in total) are handled in a jupyter notebook. The notebook format was used on purpose because its a great way to step into Python and programming in general.
 
 1) Searching the nearest weather stations via the wetterdienst API. Important information about each station is stored in an Excel file (ID_stations.xlsx each stations got its unique ID). Furthermore, the location of the station is visualised for counterchecking (ID_stations.png/pdf).
 
