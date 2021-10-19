@@ -6,7 +6,7 @@ This is great because it should be very time-consuming to extract extreme events
 
 The present workflow is intended to remedy this. The individual steps (5 in total) are handled in a jupyter notebook.
 
-1) Searching the nearest weather stations via the wetterdienst API. Important information about each station is stored in an Excel file ( ID_stations.xlsx each stations got its unique ID). Furthermore, the location of the station is visualised for counterchecking ( ID_stations.png/pdf ).
+1) Searching the nearest weather stations via the wetterdienst API. Important information about each station is stored in an Excel file (ID_stations.xlsx each stations got its unique ID). Furthermore, the location of the station is visualised for counterchecking (ID_stations.png/pdf).
 
 2) Retrieving/downloading and extracting the current KOSTRA files.
 
@@ -15,7 +15,7 @@ The present workflow is intended to remedy this. The individual steps (5 in tota
 
 3) Searching the KOSTRA files for the desired information based on the ID of the previously found weather station.
 
-4) Processing, visualization (ID_mm/lsha_surf/val/years.png/pdf) and saving of the found data in different units. mm = millimeters ( ID_data_mm.xlsx ). lsha = liters per second and hectares ( ID_data_lsha.xlsx ). 
+4) Processing, visualization (ID_mm/lsha_surf/val/years.png/pdf) and saving of the found data in different units. mm = millimeters (ID_data_mm.xlsx). lsha = liters per second and hectares (ID_data_lsha.xlsx). 
 
 
 ![](02575_mm_surf.png)
