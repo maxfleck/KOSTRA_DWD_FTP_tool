@@ -1,6 +1,6 @@
 # KOSTRA DWD FTP tool
 
-This is a small tool to simplify the daily work of engineers. There is already a great DWD API called [wetterdienst](https://github.com/earthobservations/wetterdienst) on github that provides minute weather data. However, for designing structures and other things, data from extreme weather events is necessary. These are available in the form of KOSTRA-DWD datasets on file exchange servers, for example as Excel documents.
+This is a small tool to simplify the daily work of engineers. There is already a great DWD API called [wetterdienst](https://github.com/earthobservations/wetterdienst) on github that provides weather data on miutes scale. However, for designing buildings, structures and other things, data from extreme weather events is necessary. These are available in the form of KOSTRA-DWD datasets on file exchange servers, for example as Excel documents.
 
 This is great because it should be very time-consuming to extract extreme events from the DWD database using the API. Unfortunately, working with these datasets is very unintuitive and the data is in a form that is impractical for many calculations.
 
