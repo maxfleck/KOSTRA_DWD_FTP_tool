@@ -15,7 +15,8 @@ The present workflow is intended to remedy this. The individual steps (5 in tota
 
 3) Searching the KOSTRA files for the desired information based on the ID of the previously found weather station.
 
-4) Processing, visualization (ID_mm/lsha_surf/val/years.png/pdf) and saving of the found data in different units. mm = millimeters (ID_data_mm.xlsx). lsha = liters per second and hectares (ID_data_lsha.xlsx). 
+4) Processing, visualization (ID_mm/lsha_surf/val/years.png/pdf) and saving of the found data in different units. 
+mm = millimeters (ID_data_mm.xlsx). lsha = liters per second and hectares (ID_data_lsha.xlsx). 
 
 
 ![](02575_mm_surf.png)
